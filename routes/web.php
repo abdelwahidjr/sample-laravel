@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/loaderio-e13447fe338db2e1432cd6f48ed4c8d4', function () {
-    return 'loaderio-e13447fe338db2e1432cd6f48ed4c8d4';
+Route::get('/loaderio-b915855fe94d144baa8f33689da38b54', function () {
+    return 'loaderio-b915855fe94d144baa8f33689da38b54';
 });
 
